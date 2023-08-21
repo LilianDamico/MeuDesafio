@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\lfons\\OneDrive\\Área de Trabalho\\desafio\\MeuDesafio\\MeuDesafio.csproj": {}
+    "C:\\Users\\lfons\\OneDrive\\Área de Trabalho\\desafio\\MeuDesafio\\MeuDesafio.csproj": {}
   },
   "projects": {
-    "c:\\Users\\lfons\\OneDrive\\Área de Trabalho\\desafio\\MeuDesafio\\MeuDesafio.csproj": {
+    "C:\\Users\\lfons\\OneDrive\\Área de Trabalho\\desafio\\MeuDesafio\\MeuDesafio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\lfons\\OneDrive\\Área de Trabalho\\desafio\\MeuDesafio\\MeuDesafio.csproj",
+        "projectUniqueName": "C:\\Users\\lfons\\OneDrive\\Área de Trabalho\\desafio\\MeuDesafio\\MeuDesafio.csproj",
         "projectName": "MeuDesafio",
-        "projectPath": "c:\\Users\\lfons\\OneDrive\\Área de Trabalho\\desafio\\MeuDesafio\\MeuDesafio.csproj",
+        "projectPath": "C:\\Users\\lfons\\OneDrive\\Área de Trabalho\\desafio\\MeuDesafio\\MeuDesafio.csproj",
         "packagesPath": "C:\\Users\\lfons\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\lfons\\OneDrive\\Área de Trabalho\\desafio\\MeuDesafio\\obj\\",
+        "outputPath": "C:\\Users\\lfons\\OneDrive\\Área de Trabalho\\desafio\\MeuDesafio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lfons\\AppData\\Roaming\\NuGet\\NuGet.Config",
